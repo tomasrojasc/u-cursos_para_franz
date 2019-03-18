@@ -1,0 +1,13 @@
+{
+  "id": "u-cursos",
+  "name": "U-cursos",
+  "version": "1.0.8",
+  "description": "U-cursitos para Franz",
+  "main": "index.js",
+  "author": "Tomás Rojas <>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://m.u-cursos.cl",
+    "hasNotificationSound": true
+  }
+}
